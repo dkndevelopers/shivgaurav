@@ -2048,7 +2048,7 @@ input::-moz-focus-inner {
   min-height: 788px;
   background-color: transparent;
   position: relative;
-   background-image: url(../images/baird eye2.jpg);
+   background-image: url(../images/baird eye.jpg);
 }
 
 .s-home::before {
@@ -2062,7 +2062,7 @@ input::-moz-focus-inner {
   height: 100%;
   
   background-color: #000000;
-   background-image: url(../images/baird eye2.jpg)
+   background-image: url(../images/baird eye.jpg)
 }
 
 .s-home .shadow-overlay {
@@ -2078,7 +2078,7 @@ input::-moz-focus-inner {
 
 .no-js .s-home {
   background: #000000;
-   background-image: url(../images/baird eye2.jpg);
+   background-image: url(../images/baird eye.jpg);
 }
 
 
