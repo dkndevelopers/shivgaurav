@@ -2139,18 +2139,6 @@ input::-moz-focus-inner {
   width: calc(100% - (580px + 80px));
 }
 
-.home-content__right {
-  z-index: 500;
-  width: 580px;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.home-content__right img {
-  vertical-align: bottom;
-  margin-top: -5.2rem;
-}
 
 
 /* ------------------------------------------------------------------- 
