@@ -2048,6 +2048,7 @@ input::-moz-focus-inner {
   min-height: 788px;
   background-color: transparent;
   position: relative;
+   background-image: url(../images/baird eye2.jpg);
 }
 
 .s-home::before {
