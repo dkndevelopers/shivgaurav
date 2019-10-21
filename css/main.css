@@ -2385,9 +2385,7 @@ html.no-csstransitions .home-content__main {
     width: calc(100% - (570px + 60px));
   }
 
-  .home-content__right {
-    width: 570px;
-  }
+  
 
 }
 
@@ -2405,10 +2403,7 @@ html.no-csstransitions .home-content__main {
     width: calc(100% - (550px + 80px));
   }
 
-  .home-content__right {
-    width: 550px;
-    right: 40px;
-  }
+  
 
 }
 
@@ -2429,10 +2424,7 @@ html.no-csstransitions .home-content__main {
     width: calc(100% - (530px + 90px));
   }
 
-  .home-content__right {
-    width: 530px;
-    right: 50px;
-  }
+ 
 
 }
 
@@ -2528,9 +2520,7 @@ html.no-csstransitions .home-content__main {
     font-size: 2.1rem;
   }
 
-  .home-content__right {
-    width: 480px;
-  }
+ 
 
 }
 
@@ -2565,10 +2555,7 @@ html.no-csstransitions .home-content__main {
     padding-right: 35px;
   }
 
-  .home-content__right {
-    width: 400px;
-    margin-top: -36rem;
-  }
+ 
 
   .home-content__btn-wrap {
     margin-top: 4rem;
@@ -2589,11 +2576,7 @@ html.no-csstransitions .home-content__main {
     padding-bottom: 32rem;
   }
 
-  .home-content__right {
-    width: 360px;
-    margin-top: -28rem;
-  }
-
+  
 }
 
 @media only screen and (max-width:400px) {
@@ -2611,10 +2594,7 @@ html.no-csstransitions .home-content__main {
     padding-right: 25px;
   }
 
-  .home-content__right {
-    width: 300px;
-    margin-top: -24rem;
-  }
+ 
 
   .home-content__btn-wrap .home-content__btn {
     width: 100%;
@@ -2623,9 +2603,7 @@ html.no-csstransitions .home-content__main {
 }
 
 @media only screen and (max-width:350px) {
-  .home-content__right {
-    width: 280px;
-  }
+ 
 
 }
 
